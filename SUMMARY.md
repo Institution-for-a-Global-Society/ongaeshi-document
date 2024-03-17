@@ -39,3 +39,4 @@
 
 * [Audit](other/audit.md)
 * [White Paper](other/white-paper.md)
+* [How To Contribute](other/How-to-contribute.md)
